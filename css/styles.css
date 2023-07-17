@@ -3,10 +3,12 @@
 @import "./chat.css";
 @import "./action-list.css";
 @import "./message-list.css";
+@import "./layout.css";
+@import "./user-list.css";
 
 :root {
     --headerSize:80px;
-    --actionsSize: 88px;
+    --actionsSize: 80px;
     font-size: 16px;
     --black: #000000; 
     --grey: #666667; 
